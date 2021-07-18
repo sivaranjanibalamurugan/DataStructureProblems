@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{D6ABD3E5-7035-4E96-8D9A-334026490E8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberofBinarySearchTree", "NumberofBinarySearchTree\NumberofBinarySearchTree.csproj", "{CCF995F0-FF3B-4A24-A8B1-79E7DA2746A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D6ABD3E5-7035-4E96-8D9A-334026490E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6ABD3E5-7035-4E96-8D9A-334026490E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6ABD3E5-7035-4E96-8D9A-334026490E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF995F0-FF3B-4A24-A8B1-79E7DA2746A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF995F0-FF3B-4A24-A8B1-79E7DA2746A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF995F0-FF3B-4A24-A8B1-79E7DA2746A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF995F0-FF3B-4A24-A8B1-79E7DA2746A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
