@@ -12,7 +12,9 @@ namespace DatastructureProblems
             string text = File.ReadAllText(filepath);
             string[] textArray = text.Split(" ");
             Console.WriteLine("Implementation of Data structure Programs");
-            Console.WriteLine("1.UnOrdered List\n2.Ordered List");
+            Console.WriteLine("1) UnOrdered List");
+            Console.WriteLine("2) Ordered List");
+            Console.WriteLine("3) Balanced paranthesis");
             Console.WriteLine("Enter choice:");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
@@ -62,6 +64,12 @@ namespace DatastructureProblems
                     }
                     string newText1 = ordered.DisplayList();
                    
+                    break;
+
+                case 3:
+                    Console.WriteLine("BalancedParanthesis");
+                    BalanceParanthesis paranthesis = new BalanceParanthesis();
+                    paranthesis.CheckParanthesis();
                     break;
             }
         }
