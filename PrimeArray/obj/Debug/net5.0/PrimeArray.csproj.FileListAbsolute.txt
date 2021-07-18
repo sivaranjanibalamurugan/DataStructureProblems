@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.exe
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.deps.json
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.runtimeconfig.json
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.dll
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\ref\PrimeArray.dll
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\bin\Debug\net5.0\PrimeArray.pdb
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.AssemblyInfo.cs
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.dll
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\ref\PrimeArray.dll
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.pdb
+C:\Users\user\source\repos\DatastructureProblems\PrimeArray\obj\Debug\net5.0\PrimeArray.genruntimeconfig.cache
