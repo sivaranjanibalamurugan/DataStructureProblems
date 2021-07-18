@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.exe
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.deps.json
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.runtimeconfig.json
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.runtimeconfig.dev.json
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.dll
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\ref\DatastructureProblems.dll
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\bin\Debug\net5.0\DatastructureProblems.pdb
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.AssemblyInfo.cs
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.dll
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\ref\DatastructureProblems.dll
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.pdb
+C:\Users\user\source\repos\DatastructureProblems\DatastructureProblems\obj\Debug\net5.0\DatastructureProblems.genruntimeconfig.cache
