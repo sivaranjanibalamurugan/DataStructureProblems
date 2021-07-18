@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DatastructureProblems/1.0.0": {
+        "runtime": {
+          "DatastructureProblems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatastructureProblems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
