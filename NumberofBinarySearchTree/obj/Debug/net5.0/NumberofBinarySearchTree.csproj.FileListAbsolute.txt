@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.exe
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.deps.json
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.runtimeconfig.json
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.runtimeconfig.dev.json
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.dll
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\ref\NumberofBinarySearchTree.dll
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\bin\Debug\net5.0\NumberofBinarySearchTree.pdb
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.AssemblyInfo.cs
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.dll
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\ref\NumberofBinarySearchTree.dll
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.pdb
+C:\Users\user\source\repos\DatastructureProblems\NumberofBinarySearchTree\obj\Debug\net5.0\NumberofBinarySearchTree.genruntimeconfig.cache
